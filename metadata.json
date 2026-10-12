@@ -1,0 +1,10 @@
+{
+  "name": "VoiceDriveSheetsHub",
+  "description": "Voice notes and chat messaging synced directly with Google Drive audio storage and Google Sheets logs.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
